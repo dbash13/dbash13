@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Daniel Fernández Martínez</h1>
+<h1 align="center">Hi, i'm Dani Fernandez Martinez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danib&label=Profile%20views&color=0e75b6&style=flat" alt="danib" /> </p>
 
 - I’m currently learning **PowerShell, Python, and HTML**
